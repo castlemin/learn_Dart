@@ -7,3 +7,5 @@
 [2. DataTypes](study_notes/2.DataTypes.md)
 
 [3. Functions](study_notes/3.Functions.md)
+
+[4. Classes](study_notes/4.Classes.md)
